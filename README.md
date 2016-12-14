@@ -12,4 +12,5 @@ On passing each level, the speed of the game increases, the points you gain incr
 - Added a background music and sound effects for jumping, getting hit, drowning and winning
 
 [Link to screencast video in youtube](https://youtu.be/2TSxgoVbFwQ)
+
 [Link to the live demo for the game](https://gautamjeyaraman.github.io/Frogger3D/)
